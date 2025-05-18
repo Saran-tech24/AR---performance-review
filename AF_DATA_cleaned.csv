@@ -1,0 +1,971 @@
+CPT Code,Insurance Company,Physician Name,Payment Amount,Balance,Denial Reason,results
+99214,UnitedHealthcare,Allison Hill,142,0,No Denial,Paid
+87070,Aetna,Noah Rhodes,253,0,No Denial,Paid
+99214,Humana,Angie Henderson,87,0,No Denial,Paid
+99214,Aetna,Daniel Wagner,0,234,Missing information,Denied
+87070,Kaiser Permanente,Cristian Santos,219,0,No Denial,Paid
+90471,Aetna,Connie Lawrence,151,0,No Denial,Paid
+99213,Aetna,Abigail Shaffer,167,0,No Denial,Paid
+71020,Aetna,Gina Moore,0,275,Charge exceeds fee schedule,Denied
+99214,UnitedHealthcare,Gabrielle Davis,171,0,No Denial,Paid
+20550,Humana,Ryan Munoz,0,91,Non-covered service,Denied
+36415,Humana,Monica Herrera,0,176,Missing information,Denied
+71020,Kaiser Permanente,Jamie Arnold,300,0,No Denial,Paid
+20550,Humana,Lisa Hensley,0,97,Missing information,Denied
+87070,Cigna,Michele Williams,298,0,No Denial,Paid
+87070,UnitedHealthcare,Dylan Miller,196,0,No Denial,Paid
+20550,Aetna,Brian Ramirez,133,0,No Denial,Paid
+71020,Kaiser Permanente,Holly Wood,245,0,No Denial,Paid
+99214,Humana,Derek Zuniga,216,0,No Denial,Paid
+87070,Aetna,Lisa Jackson,149,0,No Denial,Paid
+87070,Kaiser Permanente,Carla Gray,276,0,No Denial,Paid
+99213,Aetna,Margaret Hawkins DDS,286,0,No Denial,Paid
+20550,BlueCross,Patty Perez,0,134,Non-covered service,Denied
+20550,Aetna,Ethan Adams,181,0,No Denial,Paid
+36415,Aetna,Tommy Walter,0,143,Non-covered service,Denied
+71020,Kaiser Permanente,Matthew Foster,229,0,No Denial,Paid
+90471,Cigna,Judy Baker,0,115,Non-covered service,Denied
+36415,UnitedHealthcare,Justin Baker,300,0,No Denial,Paid
+99214,Aetna,Stephanie Ross,282,0,No Denial,Paid
+90471,Humana,Zachary Hicks,0,177,Non-covered service,Denied
+36415,Humana,Anthony Rodriguez,0,221,Missing information,Denied
+99214,Kaiser Permanente,Rebecca Henderson,272,0,No Denial,Paid
+71020,Kaiser Permanente,James Ferrell,155,0,No Denial,Paid
+90471,Aetna,Tricia Valencia,264,0,No Denial,Paid
+71020,Humana,Nathan Maldonado,209,0,No Denial,Paid
+99214,Kaiser Permanente,Debra Davidson,0,243,Non-covered service,Denied
+87070,Aetna,Jeffrey Chavez,121,0,No Denial,Paid
+99213,Humana,Sherri Baker,84,0,No Denial,Paid
+99214,Cigna,Cassandra Gaines,292,0,No Denial,Paid
+71020,Aetna,Elizabeth Fowler,0,225,Missing information,Denied
+99214,Kaiser Permanente,Brittany Farmer,97,0,No Denial,Paid
+93000,Aetna,Paula Moreno,220,0,No Denial,Paid
+93000,Cigna,Fred Smith,235,0,No Denial,Paid
+90471,Aetna,Sherry Decker,273,0,No Denial,Paid
+87070,Kaiser Permanente,Anthony Humphrey,251,0,No Denial,Paid
+20550,BlueCross,Angelica Tucker,195,0,No Denial,Paid
+99214,Aetna,Philip Cannon,0,166,Missing information,Denied
+87070,Humana,John Pierce,0,98,Non-covered service,Denied
+99213,Aetna,Shane Henderson,0,88,Charge exceeds fee schedule,Denied
+99214,Humana,Joshua Blair,0,251,Charge exceeds fee schedule,Denied
+87070,Humana,Eric Carney,0,226,Non-covered service,Denied
+36415,Aetna,Jessica Holmes,286,0,No Denial,Paid
+90471,Aetna,Danny Morgan,0,248,Charge exceeds fee schedule,Denied
+20550,BlueCross,Crystal Robinson,266,0,No Denial,Paid
+99213,Kaiser Permanente,Mark Perez,245,0,No Denial,Paid
+99214,UnitedHealthcare,Shannon Jones,166,0,No Denial,Paid
+99214,Aetna,Michael Lewis,0,217,Charge exceeds fee schedule,Denied
+93000,BlueCross,Timothy Duncan,0,198,Missing information,Denied
+99214,BlueCross,Richard Aguirre,299,0,No Denial,Paid
+99214,UnitedHealthcare,Brent Jordan,218,0,No Denial,Paid
+99213,UnitedHealthcare,John Daniel,297,0,No Denial,Paid
+87070,Aetna,Victoria Garcia,203,0,No Denial,Paid
+87070,BlueCross,Gerald Hensley,122,0,No Denial,Paid
+90471,UnitedHealthcare,Connor West,147,0,No Denial,Paid
+36415,Cigna,Donald Wright,267,0,No Denial,Paid
+36415,Aetna,Jessica Callahan,0,135,Missing information,Denied
+99213,Kaiser Permanente,Amber Kidd,92,0,No Denial,Paid
+36415,Humana,Tracy House,215,0,No Denial,Paid
+93000,UnitedHealthcare,Carol Tucker,100,0,No Denial,Paid
+93000,UnitedHealthcare,James Brown,252,0,No Denial,Paid
+87070,BlueCross,William Baker,0,225,Missing information,Denied
+99213,Humana,Jordan Henderson,0,248,Non-covered service,Denied
+20550,Cigna,Whitney Peters,0,263,Charge exceeds fee schedule,Denied
+87070,Cigna,Brittney Phillips,251,0,No Denial,Paid
+71020,BlueCross,Lauren Daniels,272,0,No Denial,Paid
+99214,UnitedHealthcare,Amy Silva,224,0,No Denial,Paid
+99214,UnitedHealthcare,Sarah Moore,209,0,No Denial,Paid
+71020,Aetna,Angela Lopez,97,0,No Denial,Paid
+87070,Cigna,Megan Young,0,192,Non-covered service,Denied
+71020,Humana,Steve Sanchez,286,0,No Denial,Paid
+99213,Kaiser Permanente,Lisa Barnes,156,0,No Denial,Paid
+99214,Aetna,Kelly Donovan,0,107,Non-covered service,Denied
+93000,Cigna,Mike Allen,0,133,Non-covered service,Denied
+20550,Aetna,Michael Evans,298,0,No Denial,Paid
+71020,Humana,Paul Jones,296,0,No Denial,Paid
+99213,UnitedHealthcare,Zachary Ferrell,292,0,No Denial,Paid
+71020,Aetna,Shirley Suarez,221,0,No Denial,Paid
+90471,Humana,Christopher Bass,0,99,Non-covered service,Denied
+93000,Humana,Lisa Archer,0,174,Non-covered service,Denied
+93000,BlueCross,Aimee Montoya,0,158,Charge exceeds fee schedule,Denied
+99213,Cigna,Matthew Mcmillan,0,143,Non-covered service,Denied
+99214,Cigna,Brian Rodriguez,184,0,No Denial,Paid
+93000,Aetna,Denise Jacobs,284,0,No Denial,Paid
+93000,BlueCross,Christina Walters,0,268,Charge exceeds fee schedule,Denied
+90471,Kaiser Permanente,John Whitehead,287,0,No Denial,Paid
+87070,Cigna,Anna Henderson,0,259,Missing information,Denied
+90471,UnitedHealthcare,Aaron Wise,136,0,No Denial,Paid
+87070,BlueCross,Deborah Figueroa,290,0,No Denial,Paid
+87070,Aetna,Jessica Smith,0,129,Charge exceeds fee schedule,Denied
+20550,Cigna,Stephen Mckee,277,0,No Denial,Paid
+71020,Cigna,Sandra Aguilar,182,0,No Denial,Paid
+20550,UnitedHealthcare,Cameron Parker,0,146,Missing information,Denied
+71020,UnitedHealthcare,Rebecca Valencia,0,191,Charge exceeds fee schedule,Denied
+20550,BlueCross,Christine Wright,210,0,No Denial,Paid
+99214,BlueCross,Richard Henson,128,0,No Denial,Paid
+71020,UnitedHealthcare,Marc Moore,80,0,No Denial,Paid
+87070,Cigna,Sharon Cherry,250,0,No Denial,Paid
+20550,Humana,Sierra Johnson,297,0,No Denial,Paid
+99214,Kaiser Permanente,Evelyn Galvan,209,0,No Denial,Paid
+71020,Kaiser Permanente,Sharon Cochran,183,0,No Denial,Paid
+71020,Humana,Richard Rodriguez,0,187,Non-covered service,Denied
+90471,Kaiser Permanente,Shannon Walker,124,0,No Denial,Paid
+71020,BlueCross,Julia Torres,80,0,No Denial,Paid
+20550,BlueCross,Garrett Lin,252,0,No Denial,Paid
+87070,Humana,Diana May,283,0,No Denial,Paid
+93000,Kaiser Permanente,William Herrera,0,211,Non-covered service,Denied
+20550,UnitedHealthcare,Ashley Waller,272,0,No Denial,Paid
+87070,Kaiser Permanente,Victor Baker,286,0,No Denial,Paid
+87070,Aetna,Jeffrey Chandler,0,142,Charge exceeds fee schedule,Denied
+99214,BlueCross,Larry Dixon,241,0,No Denial,Paid
+87070,Kaiser Permanente,Kenneth Scott,206,0,No Denial,Paid
+90471,Aetna,April Frost,0,256,Missing information,Denied
+36415,UnitedHealthcare,Helen Jones,297,0,No Denial,Paid
+99214,BlueCross,Erin Edwards,0,198,Non-covered service,Denied
+20550,BlueCross,Michelle Evans,264,0,No Denial,Paid
+90471,Humana,Jason Powell,120,0,No Denial,Paid
+36415,BlueCross,Cameron Fisher,0,143,Non-covered service,Denied
+71020,Humana,Megan Orr,141,0,No Denial,Paid
+71020,BlueCross,Elizabeth Kelley,0,153,Missing information,Denied
+71020,Cigna,Dustin Jordan,218,0,No Denial,Paid
+99214,Aetna,Mary Marshall,0,178,Non-covered service,Denied
+93000,Kaiser Permanente,Daniel Kennedy,0,186,Charge exceeds fee schedule,Denied
+20550,Humana,Rebecca Jackson,95,0,No Denial,Paid
+87070,BlueCross,Jose Schultz,277,0,No Denial,Paid
+99213,Humana,Robert Potter,81,0,No Denial,Paid
+20550,Cigna,Courtney Gonzalez,298,0,No Denial,Paid
+90471,Humana,David Alvarez,219,0,No Denial,Paid
+87070,BlueCross,Angel Perry,0,191,Charge exceeds fee schedule,Denied
+99213,BlueCross,Cheyenne Horton,253,0,No Denial,Paid
+90471,Kaiser Permanente,David Douglas Jr.,0,199,Missing information,Denied
+99213,BlueCross,Patricia Rodriguez,249,0,No Denial,Paid
+99213,UnitedHealthcare,Christopher Rubio,114,0,No Denial,Paid
+36415,Aetna,Amber Wright,0,177,Charge exceeds fee schedule,Denied
+87070,BlueCross,Joyce Solis,274,0,No Denial,Paid
+90471,Cigna,Victoria Larson,292,0,No Denial,Paid
+90471,Cigna,Stephanie Salazar,200,0,No Denial,Paid
+99213,Kaiser Permanente,Kathy Rivas,169,0,No Denial,Paid
+87070,Kaiser Permanente,Stephanie Manning,0,246,Missing information,Denied
+99213,Aetna,David Wright,0,85,Non-covered service,Denied
+93000,Aetna,Pamela Boyd,0,251,Missing information,Denied
+87070,BlueCross,Denise Jones,276,0,No Denial,Paid
+20550,Aetna,Devon Flores,271,0,No Denial,Paid
+99214,Aetna,Brenda Hall,107,0,No Denial,Paid
+99213,Cigna,Michelle Brown,176,0,No Denial,Paid
+90471,Kaiser Permanente,Joshua Perry,0,231,Non-covered service,Denied
+87070,UnitedHealthcare,Jason Stein,157,0,No Denial,Paid
+99214,Humana,Melissa Gates,168,0,No Denial,Paid
+90471,Kaiser Permanente,Jamie Smith,209,0,No Denial,Paid
+20550,UnitedHealthcare,Paul Castaneda,290,0,No Denial,Paid
+36415,UnitedHealthcare,Jennifer Adkins,172,0,No Denial,Paid
+36415,Kaiser Permanente,Lindsey Walker,0,125,Non-covered service,Denied
+71020,Humana,Jeffrey Johnson,217,0,No Denial,Paid
+36415,BlueCross,Michael Powell,267,0,No Denial,Paid
+71020,Cigna,John Anderson,292,0,No Denial,Paid
+99214,Cigna,Alyssa Long,142,0,No Denial,Paid
+36415,Humana,Alyssa Day,177,0,No Denial,Paid
+20550,UnitedHealthcare,Joel Williams,163,0,No Denial,Paid
+20550,Cigna,Jamie Walton,259,0,No Denial,Paid
+71020,Humana,Darlene Miller,0,128,Missing information,Denied
+87070,Kaiser Permanente,Joshua Cooke,222,0,No Denial,Paid
+87070,Kaiser Permanente,Matthew Harrington,262,0,No Denial,Paid
+36415,BlueCross,Nicole Herring,103,0,No Denial,Paid
+71020,Aetna,Alex Hernandez,142,0,No Denial,Paid
+71020,Kaiser Permanente,Michael Elliott,201,0,No Denial,Paid
+20550,BlueCross,Michael Wang,220,0,No Denial,Paid
+20550,Cigna,Lawrence Adkins,149,0,No Denial,Paid
+71020,Cigna,Robert Oconnell,0,264,Missing information,Denied
+20550,UnitedHealthcare,Alexander Collins,275,0,No Denial,Paid
+93000,Aetna,Tina Sanders,0,203,Charge exceeds fee schedule,Denied
+71020,UnitedHealthcare,Angela Vaughn,155,0,No Denial,Paid
+87070,Cigna,Ashley Barton,0,83,Non-covered service,Denied
+93000,Cigna,Lindsay Martinez,0,93,Non-covered service,Denied
+71020,Kaiser Permanente,Dr. Hannah Patterson,243,0,No Denial,Paid
+36415,UnitedHealthcare,Jonathan Peterson,226,0,No Denial,Paid
+71020,BlueCross,Samantha Garcia,167,0,No Denial,Paid
+99214,UnitedHealthcare,Jessica Gross,98,0,No Denial,Paid
+99213,Aetna,Debra Morton,0,224,Charge exceeds fee schedule,Denied
+99214,Aetna,Karen Graham,0,275,Charge exceeds fee schedule,Denied
+87070,Humana,Debra Christian,193,0,No Denial,Paid
+71020,Humana,Angelica Keith,158,0,No Denial,Paid
+99213,Humana,John Bishop,105,0,No Denial,Paid
+87070,Kaiser Permanente,Allen Rosales,0,249,Missing information,Denied
+93000,Aetna,Daniel Salinas,0,99,Missing information,Denied
+99213,BlueCross,Spencer Haynes,232,0,No Denial,Paid
+36415,Cigna,Adam Vaughan,0,153,Non-covered service,Denied
+71020,Kaiser Permanente,Nathan Freeman,98,0,No Denial,Paid
+87070,Cigna,Melissa Brewer,240,0,No Denial,Paid
+87070,BlueCross,Ricky Davis II,0,137,Non-covered service,Denied
+93000,Cigna,Elizabeth Perkins,98,0,No Denial,Paid
+99213,Aetna,Joseph Coleman,232,0,No Denial,Paid
+71020,BlueCross,Erin Warner,0,256,Charge exceeds fee schedule,Denied
+90471,Cigna,David Martinez,206,0,No Denial,Paid
+36415,UnitedHealthcare,Bryan Herrera,190,0,No Denial,Paid
+20550,Humana,Cathy Robinson,0,103,Missing information,Denied
+99213,Kaiser Permanente,Dr. William Warren,227,0,No Denial,Paid
+99213,Aetna,Brian Lee,246,0,No Denial,Paid
+36415,Cigna,Christopher Smith,0,229,Charge exceeds fee schedule,Denied
+36415,UnitedHealthcare,Denise Mccann,184,0,No Denial,Paid
+20550,Cigna,Melissa Martinez,299,0,No Denial,Paid
+93000,Cigna,Katherine Salas,206,0,No Denial,Paid
+71020,Kaiser Permanente,Julie Alexander,288,0,No Denial,Paid
+99213,BlueCross,Anthony Everett,0,144,Charge exceeds fee schedule,Denied
+99214,BlueCross,Rodney Morales,291,0,No Denial,Paid
+99213,Kaiser Permanente,Mark Brown,198,0,No Denial,Paid
+90471,UnitedHealthcare,Justin Torres,0,172,Non-covered service,Denied
+36415,Kaiser Permanente,Bailey Duran DDS,93,0,No Denial,Paid
+87070,Cigna,Courtney Mills,153,0,No Denial,Paid
+36415,Kaiser Permanente,Jeremy Dalton,87,0,No Denial,Paid
+87070,Kaiser Permanente,Elizabeth Oliver DDS,0,221,Missing information,Denied
+36415,UnitedHealthcare,Matthew Moore,119,0,No Denial,Paid
+36415,Kaiser Permanente,Benjamin Smith,0,260,Charge exceeds fee schedule,Denied
+90471,BlueCross,Kirk Carter,142,0,No Denial,Paid
+36415,Humana,Michael Warner,0,128,Non-covered service,Denied
+20550,Humana,Lori Guerrero,0,80,Charge exceeds fee schedule,Denied
+71020,Humana,Jessica Stephens,248,0,No Denial,Paid
+36415,Aetna,Susan Serrano,203,0,No Denial,Paid
+20550,Cigna,Christopher Parker,219,0,No Denial,Paid
+90471,BlueCross,Laura Roberts,128,0,No Denial,Paid
+87070,Humana,Michael Lyons,299,0,No Denial,Paid
+90471,UnitedHealthcare,Kathryn Snyder,201,0,No Denial,Paid
+90471,BlueCross,Andrew Reynolds,282,0,No Denial,Paid
+93000,BlueCross,David Davis,112,0,No Denial,Paid
+20550,UnitedHealthcare,Sara Johnston,192,0,No Denial,Paid
+99214,Humana,Yvonne Chambers,83,0,No Denial,Paid
+93000,BlueCross,Andrew Avila,119,0,No Denial,Paid
+99214,BlueCross,Matthew Moon,147,0,No Denial,Paid
+20550,Humana,Kevin Walters,246,0,No Denial,Paid
+99214,Cigna,Brandon Bailey MD,299,0,No Denial,Paid
+90471,Cigna,Shannon Rivera,274,0,No Denial,Paid
+36415,Humana,Donna Landry,0,97,Missing information,Denied
+71020,Aetna,Krista Gibson,191,0,No Denial,Paid
+99214,Kaiser Permanente,Frank Cordova,105,0,No Denial,Paid
+36415,Aetna,Jose Travis,87,0,No Denial,Paid
+99213,Cigna,Kimberly Gutierrez,155,0,No Denial,Paid
+20550,Cigna,Isaiah Avila,142,0,No Denial,Paid
+90471,Humana,Olivia Harris,126,0,No Denial,Paid
+93000,Aetna,Tanya Kim,0,177,Non-covered service,Denied
+87070,BlueCross,Barbara Dudley,116,0,No Denial,Paid
+87070,BlueCross,Cynthia Moore,197,0,No Denial,Paid
+71020,Kaiser Permanente,Susan Murray MD,98,0,No Denial,Paid
+36415,Cigna,Kathleen Moran,156,0,No Denial,Paid
+87070,BlueCross,Mrs. Kristen Reyes,107,0,No Denial,Paid
+87070,BlueCross,Katie Suarez,227,0,No Denial,Paid
+90471,Cigna,Timothy Romero,0,255,Non-covered service,Denied
+99213,Humana,Diane Evans,293,0,No Denial,Paid
+71020,Aetna,Yvonne Burns,170,0,No Denial,Paid
+87070,Kaiser Permanente,Joshua Reed,0,144,Non-covered service,Denied
+93000,Kaiser Permanente,Kimberly Gibson,0,240,Non-covered service,Denied
+99213,Cigna,Colin Terry,88,0,No Denial,Paid
+20550,Kaiser Permanente,Cynthia Rowe,0,155,Charge exceeds fee schedule,Denied
+20550,Humana,Jasmin Alvarado,149,0,No Denial,Paid
+93000,Cigna,Veronica Simpson,203,0,No Denial,Paid
+71020,Kaiser Permanente,Jonathan Lawrence,285,0,No Denial,Paid
+99214,BlueCross,Shelly Alexander,116,0,No Denial,Paid
+87070,Kaiser Permanente,Joyce Bowen,181,0,No Denial,Paid
+20550,UnitedHealthcare,Matthew Moore,83,0,No Denial,Paid
+71020,Humana,Wayne Morgan,0,174,Non-covered service,Denied
+71020,Humana,Marie Christian,243,0,No Denial,Paid
+20550,UnitedHealthcare,Shannon James,200,0,No Denial,Paid
+99213,Humana,Nathan Malone,223,0,No Denial,Paid
+20550,Humana,Amanda Jones,0,96,Non-covered service,Denied
+36415,Kaiser Permanente,Tammie Bright,184,0,No Denial,Paid
+99214,Aetna,Jessica Garcia,0,89,Charge exceeds fee schedule,Denied
+36415,UnitedHealthcare,Shelia Wallace,0,217,Missing information,Denied
+90471,BlueCross,Stephanie Williams,270,0,No Denial,Paid
+90471,Humana,Elaine Brooks,119,0,No Denial,Paid
+90471,Kaiser Permanente,Joseph Knight,0,205,Non-covered service,Denied
+90471,Cigna,Carolyn Miller,0,174,Missing information,Denied
+36415,BlueCross,Lisa Allen,298,0,No Denial,Paid
+20550,UnitedHealthcare,Briana Murray,174,0,No Denial,Paid
+20550,UnitedHealthcare,David Smith,128,0,No Denial,Paid
+99214,BlueCross,Stephanie Byrd,0,134,Non-covered service,Denied
+99213,UnitedHealthcare,Jeremy Reed,142,0,No Denial,Paid
+87070,Humana,Ryan Gonzalez,0,139,Charge exceeds fee schedule,Denied
+93000,Humana,Laura Haney,0,124,Missing information,Denied
+20550,UnitedHealthcare,Keith Jennings,0,93,Missing information,Denied
+90471,Humana,Amber Obrien,0,96,Charge exceeds fee schedule,Denied
+36415,Cigna,Tanner Mitchell DDS,107,0,No Denial,Paid
+36415,Humana,Heather Fields,0,237,Missing information,Denied
+71020,BlueCross,Megan Le,87,0,No Denial,Paid
+99213,BlueCross,Sara Fuller,189,0,No Denial,Paid
+99214,BlueCross,Maria Parker,193,0,No Denial,Paid
+99214,UnitedHealthcare,Kevin Oconnor,117,0,No Denial,Paid
+99214,Aetna,Edward Burgess,0,242,Non-covered service,Denied
+20550,BlueCross,Carlos Ryan,215,0,No Denial,Paid
+71020,BlueCross,Kiara Mcintyre,190,0,No Denial,Paid
+99214,Kaiser Permanente,Dawn Summers,0,247,Non-covered service,Denied
+87070,BlueCross,Dr. Paul Morgan,138,0,No Denial,Paid
+90471,Cigna,Victor Taylor,182,0,No Denial,Paid
+90471,Kaiser Permanente,Shannon Ramsey,0,189,Charge exceeds fee schedule,Denied
+71020,Cigna,Tracy Ballard,255,0,No Denial,Paid
+36415,UnitedHealthcare,Richard Smith,0,101,Missing information,Denied
+90471,UnitedHealthcare,Jordan Chambers,175,0,No Denial,Paid
+93000,Humana,Lauren Carson,0,223,Non-covered service,Denied
+20550,Kaiser Permanente,Ashley Hall,0,170,Non-covered service,Denied
+90471,Kaiser Permanente,Stephen Hoffman,0,153,Non-covered service,Denied
+71020,Cigna,Connie Brown,0,209,Missing information,Denied
+93000,Kaiser Permanente,Susan Turner,296,0,No Denial,Paid
+99214,Cigna,Charles Shah,174,0,No Denial,Paid
+99214,Cigna,Johnathan Davis,286,0,No Denial,Paid
+90471,Humana,Brandy Chavez,289,0,No Denial,Paid
+99213,Humana,Natalie Bautista,292,0,No Denial,Paid
+71020,UnitedHealthcare,Patrick Moore,0,259,Charge exceeds fee schedule,Denied
+20550,Cigna,Brett Burns,0,116,Non-covered service,Denied
+90471,UnitedHealthcare,Trevor Johnson,0,242,Missing information,Denied
+99214,Kaiser Permanente,Jeremy Sampson,176,0,No Denial,Paid
+90471,BlueCross,Ariana Jennings,174,0,No Denial,Paid
+71020,Kaiser Permanente,Vanessa Howard,225,0,No Denial,Paid
+99214,UnitedHealthcare,Colton Martinez,0,273,Non-covered service,Denied
+99213,Kaiser Permanente,Jordan Bates,0,193,Non-covered service,Denied
+90471,BlueCross,Linda Smith,186,0,No Denial,Paid
+71020,Aetna,Dana Martinez,109,0,No Denial,Paid
+20550,BlueCross,Andrea Hubbard,0,253,Non-covered service,Denied
+36415,Humana,Daniel Kane,91,0,No Denial,Paid
+87070,BlueCross,Charles Lester,94,0,No Denial,Paid
+99213,Aetna,Scott Thomas,134,0,No Denial,Paid
+93000,Cigna,David Thompson,0,110,Missing information,Denied
+36415,Kaiser Permanente,Allison Smith,113,0,No Denial,Paid
+90471,Humana,Cynthia Morris,208,0,No Denial,Paid
+20550,UnitedHealthcare,Anthony Harmon,269,0,No Denial,Paid
+99213,BlueCross,Nichole Alvarez,0,99,Charge exceeds fee schedule,Denied
+90471,Humana,Kayla Rodriguez,243,0,No Denial,Paid
+90471,Cigna,Theresa Williams,0,85,Charge exceeds fee schedule,Denied
+93000,Humana,Sharon Boyd,256,0,No Denial,Paid
+20550,UnitedHealthcare,Victor Brown,107,0,No Denial,Paid
+87070,BlueCross,James Parks,214,0,No Denial,Paid
+99214,BlueCross,Theodore Jones Jr.,270,0,No Denial,Paid
+20550,Aetna,Ana Hill,123,0,No Denial,Paid
+99214,Humana,Kimberly Nguyen,215,0,No Denial,Paid
+87070,Cigna,Kerry Chavez DDS,289,0,No Denial,Paid
+93000,Aetna,Michael Farrell,0,145,Missing information,Denied
+93000,Humana,Patricia Le,0,274,Non-covered service,Denied
+99214,Aetna,Jesse Perez,240,0,No Denial,Paid
+36415,BlueCross,Jesse Perry,274,0,No Denial,Paid
+36415,Kaiser Permanente,Jeffery Ortega,224,0,No Denial,Paid
+20550,Kaiser Permanente,Christian Leblanc,192,0,No Denial,Paid
+99214,BlueCross,Ronald Davis,157,0,No Denial,Paid
+71020,Humana,Parker Cain,0,209,Missing information,Denied
+71020,BlueCross,Laurie Hoffman,94,0,No Denial,Paid
+90471,BlueCross,Nicole Parrish,282,0,No Denial,Paid
+99213,BlueCross,Tracy Burke,226,0,No Denial,Paid
+87070,Cigna,Kenneth Lewis,208,0,No Denial,Paid
+93000,UnitedHealthcare,Courtney Rodriguez,287,0,No Denial,Paid
+20550,Kaiser Permanente,Holly Farmer,0,245,Missing information,Denied
+99213,Aetna,Renee Bruce,192,0,No Denial,Paid
+93000,Cigna,Sabrina Austin,152,0,No Denial,Paid
+90471,BlueCross,Allison Hickman,253,0,No Denial,Paid
+99213,Kaiser Permanente,Debra White,96,0,No Denial,Paid
+20550,UnitedHealthcare,Ellen Morgan,178,0,No Denial,Paid
+71020,Cigna,Sergio Knight,248,0,No Denial,Paid
+93000,Cigna,Charles Schultz,0,249,Missing information,Denied
+20550,Cigna,Paul Lewis,258,0,No Denial,Paid
+90471,Aetna,Glen Wood,101,0,No Denial,Paid
+71020,Humana,Paula Bradley,282,0,No Denial,Paid
+20550,Aetna,Anthony Moore,292,0,No Denial,Paid
+99214,Kaiser Permanente,Megan Nelson,210,0,No Denial,Paid
+20550,UnitedHealthcare,Karla Ramos,126,0,No Denial,Paid
+87070,Cigna,Paul Wilson,204,0,No Denial,Paid
+87070,Aetna,Douglas Gregory,119,0,No Denial,Paid
+99214,Cigna,Mr. Andrew Foster,105,0,No Denial,Paid
+99213,Kaiser Permanente,Aimee Turner,276,0,No Denial,Paid
+93000,Humana,Chad Scott,121,0,No Denial,Paid
+93000,Kaiser Permanente,Adam Burgess,287,0,No Denial,Paid
+93000,Kaiser Permanente,James Padilla,185,0,No Denial,Paid
+20550,Kaiser Permanente,Sandra Drake,193,0,No Denial,Paid
+71020,Kaiser Permanente,Scott Williams,139,0,No Denial,Paid
+87070,Cigna,Thomas Atkins,280,0,No Denial,Paid
+36415,Aetna,Laura Mckinney,226,0,No Denial,Paid
+36415,BlueCross,Brian Smith,279,0,No Denial,Paid
+90471,Humana,Robert Montgomery,121,0,No Denial,Paid
+87070,Humana,Tamara Davis,0,144,Missing information,Denied
+36415,Cigna,Dana Chapman,106,0,No Denial,Paid
+99214,Cigna,Jennifer Collins,0,121,Charge exceeds fee schedule,Denied
+36415,Humana,Gary Jackson,0,191,Missing information,Denied
+87070,BlueCross,Ashley Hicks,86,0,No Denial,Paid
+90471,UnitedHealthcare,Hannah Luna,175,0,No Denial,Paid
+87070,BlueCross,Robin Young,175,0,No Denial,Paid
+87070,UnitedHealthcare,Craig Morrison,105,0,No Denial,Paid
+20550,Aetna,Mary Thompson,0,153,Charge exceeds fee schedule,Denied
+93000,Kaiser Permanente,Kathleen Webster,237,0,No Denial,Paid
+99213,UnitedHealthcare,Joann Glass,0,135,Missing information,Denied
+90471,UnitedHealthcare,Madison Weber,140,0,No Denial,Paid
+71020,UnitedHealthcare,Lori Hernandez,0,187,Non-covered service,Denied
+36415,UnitedHealthcare,Jeremy Turner,0,207,Non-covered service,Denied
+99213,Kaiser Permanente,Anthony Romero,141,0,No Denial,Paid
+93000,Cigna,Jesse Brown,237,0,No Denial,Paid
+20550,Aetna,Angela Lin,127,0,No Denial,Paid
+99214,Humana,Lisa Hunter,97,0,No Denial,Paid
+99213,BlueCross,Julian Conner,91,0,No Denial,Paid
+90471,Cigna,Joanna Pacheco,0,84,Charge exceeds fee schedule,Denied
+99214,Cigna,Erica Alvarez,0,248,Non-covered service,Denied
+99214,Humana,Antonio Garcia,165,0,No Denial,Paid
+93000,UnitedHealthcare,Gwendolyn Klein,166,0,No Denial,Paid
+93000,Kaiser Permanente,Carrie Wright,258,0,No Denial,Paid
+36415,Kaiser Permanente,Jeffrey Mills,0,114,Missing information,Denied
+36415,UnitedHealthcare,Jake Campbell,0,91,Missing information,Denied
+99213,Cigna,George Harper,211,0,No Denial,Paid
+90471,Humana,Maria Jones,89,0,No Denial,Paid
+87070,Cigna,Michael Mitchell,279,0,No Denial,Paid
+99213,Kaiser Permanente,Mary Escobar,111,0,No Denial,Paid
+20550,BlueCross,Felicia Aguilar,270,0,No Denial,Paid
+36415,BlueCross,Gregory Ponce,127,0,No Denial,Paid
+36415,Kaiser Permanente,Jenna Larson,284,0,No Denial,Paid
+71020,UnitedHealthcare,Emily Bennett,100,0,No Denial,Paid
+90471,Humana,Robin Santiago,126,0,No Denial,Paid
+71020,Cigna,Nancy Jennings,0,163,Non-covered service,Denied
+71020,Cigna,Maria Henderson,263,0,No Denial,Paid
+90471,Aetna,Jack White,169,0,No Denial,Paid
+36415,UnitedHealthcare,Travis Tucker,170,0,No Denial,Paid
+90471,Cigna,Chad Jones,282,0,No Denial,Paid
+99213,UnitedHealthcare,Ashley Wise,183,0,No Denial,Paid
+20550,Humana,Sophia Johnson,253,0,No Denial,Paid
+93000,UnitedHealthcare,Ralph Anderson,0,235,Non-covered service,Denied
+36415,UnitedHealthcare,Christopher Guerra,0,140,Non-covered service,Denied
+20550,Cigna,Rhonda Martin,225,0,No Denial,Paid
+99213,Humana,Jason Rhodes,0,195,Charge exceeds fee schedule,Denied
+20550,BlueCross,Jeremy Mitchell,226,0,No Denial,Paid
+93000,Humana,Joann Ferguson,160,0,No Denial,Paid
+71020,Aetna,Robert Harrison,86,0,No Denial,Paid
+93000,BlueCross,Holly Valentine,223,0,No Denial,Paid
+99214,Cigna,Mrs. Diane Reyes,260,0,No Denial,Paid
+36415,Aetna,Tracy Montoya,153,0,No Denial,Paid
+36415,Aetna,Shelly Spencer,193,0,No Denial,Paid
+99214,Kaiser Permanente,Ryan Rosales,161,0,No Denial,Paid
+20550,Kaiser Permanente,Phillip Nelson,0,218,Charge exceeds fee schedule,Denied
+71020,Aetna,Brittany Kim,259,0,No Denial,Paid
+93000,Cigna,Courtney Hayes,111,0,No Denial,Paid
+87070,Aetna,Alexander Brown,0,206,Missing information,Denied
+20550,Humana,Cynthia Vang,199,0,No Denial,Paid
+93000,Humana,Alfred Galvan,96,0,No Denial,Paid
+71020,BlueCross,Marie Moody,264,0,No Denial,Paid
+36415,Humana,Dustin Gallegos,184,0,No Denial,Paid
+99214,Aetna,Brenda Thornton,244,0,No Denial,Paid
+99214,BlueCross,Aaron Miller,212,0,No Denial,Paid
+20550,Aetna,Ruben Dunn,279,0,No Denial,Paid
+93000,Aetna,Kelsey Rodriguez,94,0,No Denial,Paid
+99214,Humana,Eric Williams,0,122,Missing information,Denied
+20550,Kaiser Permanente,Riley Bryant,0,212,Charge exceeds fee schedule,Denied
+99214,Cigna,Taylor Carlson,0,221,Charge exceeds fee schedule,Denied
+93000,Kaiser Permanente,Jose Allen,216,0,No Denial,Paid
+99214,Humana,Jeffrey Mendez,231,0,No Denial,Paid
+93000,Aetna,Jason Beck,264,0,No Denial,Paid
+20550,Humana,William Jones,0,87,Missing information,Denied
+99213,Kaiser Permanente,Katie Mcneil,147,0,No Denial,Paid
+87070,Humana,Jeanette Harrison,243,0,No Denial,Paid
+99213,BlueCross,Veronica King,219,0,No Denial,Paid
+71020,Kaiser Permanente,Richard Cooper,203,0,No Denial,Paid
+87070,Kaiser Permanente,Lori Ingram,196,0,No Denial,Paid
+99214,Kaiser Permanente,Evelyn Williams,0,192,Charge exceeds fee schedule,Denied
+36415,BlueCross,Robin Thompson,0,235,Missing information,Denied
+20550,Kaiser Permanente,Julie Dominguez,300,0,No Denial,Paid
+20550,BlueCross,Robin Brown,0,174,Non-covered service,Denied
+99214,Cigna,Judith Carter,0,111,Charge exceeds fee schedule,Denied
+36415,Aetna,Curtis Williams,0,92,Charge exceeds fee schedule,Denied
+90471,Humana,Kaylee Hays,120,0,No Denial,Paid
+20550,Humana,Dawn Mullins,128,0,No Denial,Paid
+93000,BlueCross,Howard Norman,199,0,No Denial,Paid
+36415,Cigna,Evelyn Martinez,103,0,No Denial,Paid
+90471,Humana,Steve Paul,141,0,No Denial,Paid
+87070,Humana,Jasmine Beltran,92,0,No Denial,Paid
+71020,BlueCross,Jonathan Glass MD,295,0,No Denial,Paid
+36415,Cigna,Monica Miller,296,0,No Denial,Paid
+99214,BlueCross,Samantha Gardner,0,147,Non-covered service,Denied
+20550,BlueCross,Bobby Guerrero,182,0,No Denial,Paid
+99213,Humana,Lance Simmons,172,0,No Denial,Paid
+71020,UnitedHealthcare,Heather Williams,195,0,No Denial,Paid
+71020,Humana,Heather Bolton,110,0,No Denial,Paid
+93000,UnitedHealthcare,William Gould,283,0,No Denial,Paid
+20550,Humana,Mark Cox,273,0,No Denial,Paid
+93000,Aetna,Meghan Cisneros,182,0,No Denial,Paid
+99213,UnitedHealthcare,Lawrence Harrington,0,262,Charge exceeds fee schedule,Denied
+36415,Humana,Austin Osborne,235,0,No Denial,Paid
+93000,Cigna,James Bradley,161,0,No Denial,Paid
+93000,BlueCross,Meghan Rush,269,0,No Denial,Paid
+71020,Humana,Phillip Berry,292,0,No Denial,Paid
+36415,Kaiser Permanente,Jennifer Banks,201,0,No Denial,Paid
+99213,Cigna,Brian Fitzgerald,108,0,No Denial,Paid
+90471,Humana,Mr. Justin Green III,265,0,No Denial,Paid
+99213,Humana,Zachary Mitchell,247,0,No Denial,Paid
+87070,Kaiser Permanente,Katherine Martinez,0,202,Missing information,Denied
+90471,Aetna,Jodi Roach,142,0,No Denial,Paid
+99213,Humana,Brandon Fleming,108,0,No Denial,Paid
+87070,UnitedHealthcare,Emma Reed,187,0,No Denial,Paid
+93000,BlueCross,Joshua Vance,185,0,No Denial,Paid
+36415,Kaiser Permanente,Michelle Ho,260,0,No Denial,Paid
+93000,Humana,Rebecca Hicks,0,163,Non-covered service,Denied
+36415,Humana,Curtis Taylor,124,0,No Denial,Paid
+36415,Humana,Allison Spencer,170,0,No Denial,Paid
+71020,Humana,Robert Arnold,143,0,No Denial,Paid
+71020,Humana,Angelica Parker,0,156,Charge exceeds fee schedule,Denied
+87070,Kaiser Permanente,Dr. Kelly Hammond DVM,161,0,No Denial,Paid
+36415,Cigna,William Day,283,0,No Denial,Paid
+71020,Cigna,Michael Cooper,0,253,Non-covered service,Denied
+90471,BlueCross,Penny Bowman,277,0,No Denial,Paid
+93000,Cigna,Vincent Reynolds,0,262,Missing information,Denied
+20550,BlueCross,Amy Martinez,271,0,No Denial,Paid
+36415,Aetna,Christopher Morris,0,217,Charge exceeds fee schedule,Denied
+71020,Aetna,Hannah Everett,0,269,Non-covered service,Denied
+87070,Aetna,Sarah King,0,215,Missing information,Denied
+87070,UnitedHealthcare,Krista Martinez,0,164,Non-covered service,Denied
+36415,UnitedHealthcare,Joseph Shaw,115,0,No Denial,Paid
+99213,Humana,Todd Moore,120,0,No Denial,Paid
+90471,Kaiser Permanente,Michelle Jacobs,201,0,No Denial,Paid
+36415,Kaiser Permanente,Kristy Bryan,0,153,Charge exceeds fee schedule,Denied
+87070,Humana,Marilyn Wang,297,0,No Denial,Paid
+99213,Aetna,Mark Jimenez,294,0,No Denial,Paid
+93000,UnitedHealthcare,Donna Frye,181,0,No Denial,Paid
+36415,Aetna,Dr. Michael Evans,154,0,No Denial,Paid
+99213,UnitedHealthcare,Anthony Gonzales,0,234,Missing information,Denied
+20550,Cigna,Mr. Lawrence Edwards,244,0,No Denial,Paid
+36415,Aetna,Morgan Valencia,199,0,No Denial,Paid
+71020,Aetna,Bianca Wood,164,0,No Denial,Paid
+93000,Kaiser Permanente,Emma Owens,145,0,No Denial,Paid
+93000,UnitedHealthcare,David Davis,282,0,No Denial,Paid
+71020,Humana,James Gilbert,129,0,No Denial,Paid
+93000,Humana,Sean Moore,183,0,No Denial,Paid
+90471,Humana,Kenneth Edwards,182,0,No Denial,Paid
+99214,Aetna,Kathleen Robertson,202,0,No Denial,Paid
+20550,Aetna,Mr. Alexander Landry MD,0,178,Missing information,Denied
+36415,Cigna,Cindy Gomez,157,0,No Denial,Paid
+99213,Cigna,Johnny Khan,257,0,No Denial,Paid
+87070,UnitedHealthcare,Julie Herrera,199,0,No Denial,Paid
+71020,Aetna,Jessica Khan,208,0,No Denial,Paid
+71020,Kaiser Permanente,Pamela Diaz,0,155,Charge exceeds fee schedule,Denied
+87070,Aetna,Kelly Lee,202,0,No Denial,Paid
+93000,BlueCross,Angel Gordon,235,0,No Denial,Paid
+20550,BlueCross,Diana Hays,200,0,No Denial,Paid
+87070,Aetna,Barbara Hester,232,0,No Denial,Paid
+99214,Humana,Robert Morgan,260,0,No Denial,Paid
+20550,UnitedHealthcare,Nicole Gonzalez,108,0,No Denial,Paid
+99213,Humana,Kathryn Williams,131,0,No Denial,Paid
+93000,Aetna,Gary Wells,213,0,No Denial,Paid
+36415,UnitedHealthcare,Larry Robertson,263,0,No Denial,Paid
+36415,UnitedHealthcare,Louis Martin,194,0,No Denial,Paid
+99213,BlueCross,Nancy Evans MD,0,186,Charge exceeds fee schedule,Denied
+99213,Humana,Kim Erickson,286,0,No Denial,Paid
+71020,Kaiser Permanente,Robert Richardson,0,145,Missing information,Denied
+87070,Humana,Veronica Silva,0,188,Charge exceeds fee schedule,Denied
+99214,Humana,Molly Watts,97,0,No Denial,Paid
+36415,UnitedHealthcare,John Coffey,0,126,Missing information,Denied
+90471,Cigna,Paula Lane,177,0,No Denial,Paid
+36415,BlueCross,Lauren Jackson,254,0,No Denial,Paid
+93000,Kaiser Permanente,Lisa Randall,110,0,No Denial,Paid
+93000,Humana,Michael Johnson,112,0,No Denial,Paid
+87070,UnitedHealthcare,Ashley Smith,156,0,No Denial,Paid
+36415,Kaiser Permanente,Christian Vaughn,188,0,No Denial,Paid
+90471,Aetna,Reginald Knapp,0,168,Missing information,Denied
+71020,Aetna,Nancy Brown,265,0,No Denial,Paid
+99214,UnitedHealthcare,Daniel Nguyen,187,0,No Denial,Paid
+99213,Aetna,Kelly Edwards,0,105,Non-covered service,Denied
+99213,BlueCross,Thomas Peterson,260,0,No Denial,Paid
+99213,Aetna,Raymond Le,182,0,No Denial,Paid
+36415,Aetna,Melissa Bishop,273,0,No Denial,Paid
+99213,Aetna,David Grant,154,0,No Denial,Paid
+87070,Kaiser Permanente,William Evans,227,0,No Denial,Paid
+20550,Aetna,Daniel Bush,116,0,No Denial,Paid
+87070,BlueCross,Gregory Peck,95,0,No Denial,Paid
+93000,Kaiser Permanente,Denise Martinez,222,0,No Denial,Paid
+36415,UnitedHealthcare,Jamie Baird,244,0,No Denial,Paid
+90471,Humana,Tina Ballard,186,0,No Denial,Paid
+90471,Aetna,Dwayne Klein,0,127,Non-covered service,Denied
+36415,Aetna,Jeremy Scott,156,0,No Denial,Paid
+93000,BlueCross,Dale Ryan,223,0,No Denial,Paid
+90471,BlueCross,Melissa Taylor,114,0,No Denial,Paid
+90471,Aetna,Laurie Sanchez,0,164,Non-covered service,Denied
+99214,BlueCross,Kiara Little,103,0,No Denial,Paid
+87070,UnitedHealthcare,Jason Love,0,252,Non-covered service,Denied
+99213,UnitedHealthcare,Randy Smith,0,274,Non-covered service,Denied
+87070,BlueCross,Tanya Russell,0,165,Charge exceeds fee schedule,Denied
+99213,Aetna,Sherry Woods,269,0,No Denial,Paid
+99214,Kaiser Permanente,Victor Morris,202,0,No Denial,Paid
+87070,Kaiser Permanente,Susan Davis,132,0,No Denial,Paid
+90471,Aetna,Kimberly Sharp,278,0,No Denial,Paid
+71020,BlueCross,Susan Thompson,246,0,No Denial,Paid
+20550,Cigna,Casey Gillespie,0,211,Charge exceeds fee schedule,Denied
+36415,UnitedHealthcare,Jennifer Simpson DVM,264,0,No Denial,Paid
+36415,Cigna,Tammy Mcdowell,174,0,No Denial,Paid
+20550,BlueCross,Keith Rodriguez,0,136,Non-covered service,Denied
+93000,UnitedHealthcare,Mrs. Virginia Daniels,0,229,Non-covered service,Denied
+90471,Cigna,Todd Rosales MD,0,164,Missing information,Denied
+90471,Humana,Brian Martin,207,0,No Denial,Paid
+20550,Cigna,David Lopez,205,0,No Denial,Paid
+93000,Aetna,Casey Chase,205,0,No Denial,Paid
+93000,Humana,Samantha Robertson,95,0,No Denial,Paid
+99213,UnitedHealthcare,Michael Lopez,251,0,No Denial,Paid
+99213,UnitedHealthcare,Franklin Wright,295,0,No Denial,Paid
+87070,UnitedHealthcare,David Molina,82,0,No Denial,Paid
+87070,Humana,Elizabeth Sharp,95,0,No Denial,Paid
+36415,Kaiser Permanente,Matthew Schwartz,81,0,No Denial,Paid
+90471,UnitedHealthcare,Bryan Parker,0,264,Charge exceeds fee schedule,Denied
+71020,UnitedHealthcare,Jonathan Jacobson,258,0,No Denial,Paid
+90471,Aetna,Emily Wilson,0,104,Non-covered service,Denied
+93000,Aetna,Elizabeth Mendez,0,214,Charge exceeds fee schedule,Denied
+20550,Cigna,Casey Hernandez,100,0,No Denial,Paid
+20550,BlueCross,Lisa Perry,142,0,No Denial,Paid
+87070,Cigna,Kaitlin Medina,297,0,No Denial,Paid
+99214,Kaiser Permanente,Colleen Wright,246,0,No Denial,Paid
+99213,UnitedHealthcare,Shelley Miller,176,0,No Denial,Paid
+36415,UnitedHealthcare,Michael Miller,259,0,No Denial,Paid
+93000,UnitedHealthcare,Amy Kelley,191,0,No Denial,Paid
+20550,Humana,Laura Hernandez,104,0,No Denial,Paid
+99213,Aetna,Joseph Wilson,0,257,Non-covered service,Denied
+36415,Cigna,Kevin Davis,0,99,Non-covered service,Denied
+71020,Humana,Rhonda Chavez,88,0,No Denial,Paid
+93000,Cigna,Joyce Brown,0,133,Non-covered service,Denied
+93000,Kaiser Permanente,Robert Cummings,99,0,No Denial,Paid
+71020,Aetna,Robert Reese,225,0,No Denial,Paid
+90471,Kaiser Permanente,Amber Cooper,164,0,No Denial,Paid
+90471,Kaiser Permanente,Zachary Michael,0,256,Non-covered service,Denied
+99214,Humana,Timothy Johnson,168,0,No Denial,Paid
+99213,UnitedHealthcare,Randy Cannon,294,0,No Denial,Paid
+99214,Cigna,Maria Fisher,237,0,No Denial,Paid
+90471,Cigna,Janet Kane DVM,0,149,Charge exceeds fee schedule,Denied
+36415,Aetna,Michael Stanley,176,0,No Denial,Paid
+90471,Aetna,Martha Bailey,249,0,No Denial,Paid
+90471,UnitedHealthcare,Joshua Rice,155,0,No Denial,Paid
+87070,Kaiser Permanente,Courtney Smith,0,148,Missing information,Denied
+90471,Kaiser Permanente,Edwin Nunez,119,0,No Denial,Paid
+90471,Cigna,Kim Morrow,103,0,No Denial,Paid
+99213,Cigna,Gregory Hill,274,0,No Denial,Paid
+71020,UnitedHealthcare,Molly Rodriguez,0,127,Charge exceeds fee schedule,Denied
+36415,Humana,Jennifer Miranda,184,0,No Denial,Paid
+99214,UnitedHealthcare,Alexis Harris,0,221,Missing information,Denied
+20550,BlueCross,Andrew Harper,0,185,Charge exceeds fee schedule,Denied
+99214,Kaiser Permanente,Amber Yang,142,0,No Denial,Paid
+93000,Kaiser Permanente,David Robinson,115,0,No Denial,Paid
+71020,Cigna,Amy Gordon,0,117,Missing information,Denied
+93000,BlueCross,Robert Dennis,0,156,Charge exceeds fee schedule,Denied
+99214,Cigna,Kyle Chambers,0,143,Non-covered service,Denied
+36415,Humana,Eric Thomas,197,0,No Denial,Paid
+99214,Aetna,Connie Turner,181,0,No Denial,Paid
+20550,Humana,Travis Hobbs,300,0,No Denial,Paid
+20550,BlueCross,Lori Simmons,288,0,No Denial,Paid
+93000,Cigna,William David DDS,257,0,No Denial,Paid
+87070,BlueCross,Emma Butler,181,0,No Denial,Paid
+20550,Cigna,James Webster,242,0,No Denial,Paid
+36415,Humana,Samuel Turner,163,0,No Denial,Paid
+90471,Cigna,Renee Melendez,180,0,No Denial,Paid
+20550,UnitedHealthcare,Tracy Grant,131,0,No Denial,Paid
+93000,Kaiser Permanente,David Harris,86,0,No Denial,Paid
+99214,BlueCross,Nathaniel Lee,115,0,No Denial,Paid
+71020,Aetna,Michael Morrison,0,119,Non-covered service,Denied
+90471,BlueCross,Chelsea Gill,0,233,Charge exceeds fee schedule,Denied
+90471,Humana,Kristin Mendoza,257,0,No Denial,Paid
+90471,Humana,Felicia Krueger,0,172,Non-covered service,Denied
+99214,UnitedHealthcare,Timothy Hayden,248,0,No Denial,Paid
+20550,Aetna,Zachary Mendoza,91,0,No Denial,Paid
+90471,Cigna,Larry Harris,190,0,No Denial,Paid
+99214,UnitedHealthcare,Kristen Rowe,0,136,Non-covered service,Denied
+87070,BlueCross,Joseph Howard,198,0,No Denial,Paid
+93000,Cigna,Jose Crawford,203,0,No Denial,Paid
+99214,Cigna,William Harrison,101,0,No Denial,Paid
+99214,Kaiser Permanente,Suzanne Wood,0,159,Charge exceeds fee schedule,Denied
+36415,Aetna,Justin Walker,169,0,No Denial,Paid
+36415,UnitedHealthcare,Dean Donovan,258,0,No Denial,Paid
+36415,Cigna,Jennifer Hernandez,0,91,Non-covered service,Denied
+99214,UnitedHealthcare,James Whitaker,245,0,No Denial,Paid
+99214,Kaiser Permanente,Mr. Michael Scott PhD,269,0,No Denial,Paid
+87070,Humana,Maria Henry,0,120,Charge exceeds fee schedule,Denied
+90471,BlueCross,Robert Jackson,0,183,Non-covered service,Denied
+93000,Aetna,Katherine Stark,190,0,No Denial,Paid
+90471,UnitedHealthcare,Maria Brown,130,0,No Denial,Paid
+36415,Humana,Ryan Landry,81,0,No Denial,Paid
+87070,Aetna,Pamela Gutierrez,0,260,Missing information,Denied
+99214,Humana,Crystal Mann,0,163,Missing information,Denied
+20550,Humana,Mary Jensen,180,0,No Denial,Paid
+99214,Cigna,Mr. Aaron Arnold,197,0,No Denial,Paid
+93000,Kaiser Permanente,Joseph Hill,156,0,No Denial,Paid
+99214,Kaiser Permanente,Alicia Li,0,110,Missing information,Denied
+71020,UnitedHealthcare,Renee Browning,0,257,Missing information,Denied
+90471,BlueCross,Brent Hernandez,227,0,No Denial,Paid
+90471,BlueCross,Joseph Ochoa,0,242,Non-covered service,Denied
+93000,Humana,James Watson,0,153,Missing information,Denied
+93000,Cigna,Karl Branch,238,0,No Denial,Paid
+99213,Cigna,Michael Abbott,204,0,No Denial,Paid
+93000,Aetna,Shannon Malone,223,0,No Denial,Paid
+36415,BlueCross,James Tran,186,0,No Denial,Paid
+36415,BlueCross,Adam Jackson,0,224,Missing information,Denied
+87070,Cigna,Mr. Richard Knight PhD,0,137,Non-covered service,Denied
+71020,Aetna,Joseph Williams,224,0,No Denial,Paid
+36415,Humana,Sean Clay,226,0,No Denial,Paid
+99214,Cigna,Anthony Jones,290,0,No Denial,Paid
+20550,Humana,Stephanie Elliott,90,0,No Denial,Paid
+36415,Humana,Timothy Edwards,0,188,Missing information,Denied
+87070,Cigna,Laurie Goodwin,88,0,No Denial,Paid
+36415,Cigna,Jennifer Jones,289,0,No Denial,Paid
+99214,BlueCross,David Davenport,110,0,No Denial,Paid
+87070,Aetna,Steven Rivera,230,0,No Denial,Paid
+20550,Kaiser Permanente,Brenda Hinton,189,0,No Denial,Paid
+93000,Humana,Kathryn Mccann,0,132,Missing information,Denied
+99213,Humana,Jeffrey Roberson,151,0,No Denial,Paid
+93000,Cigna,Randy Friedman,154,0,No Denial,Paid
+99214,Aetna,Willie Henry,281,0,No Denial,Paid
+90471,UnitedHealthcare,Todd Reynolds,247,0,No Denial,Paid
+93000,Kaiser Permanente,Mary Miller,143,0,No Denial,Paid
+93000,Kaiser Permanente,Rebecca Marquez,143,0,No Denial,Paid
+90471,BlueCross,Christian Dawson,0,241,Charge exceeds fee schedule,Denied
+90471,BlueCross,Nancy Stewart,242,0,No Denial,Paid
+99214,BlueCross,Aaron Parker,151,0,No Denial,Paid
+20550,BlueCross,Derrick Anderson,163,0,No Denial,Paid
+99213,Kaiser Permanente,Jerry Peters,0,197,Non-covered service,Denied
+20550,UnitedHealthcare,Alexander Gomez,181,0,No Denial,Paid
+87070,BlueCross,Kyle Nguyen,206,0,No Denial,Paid
+71020,Cigna,Edgar Hughes,166,0,No Denial,Paid
+93000,Humana,Steven Stein,281,0,No Denial,Paid
+20550,Kaiser Permanente,Laura Jackson,91,0,No Denial,Paid
+99214,Kaiser Permanente,Charles Turner,197,0,No Denial,Paid
+99213,UnitedHealthcare,Arthur Hamilton MD,120,0,No Denial,Paid
+36415,BlueCross,Mr. David Wright,0,189,Missing information,Denied
+93000,Kaiser Permanente,Linda Gonzalez,150,0,No Denial,Paid
+99214,Kaiser Permanente,Eric Rush,101,0,No Denial,Paid
+20550,Kaiser Permanente,Manuel Brock,122,0,No Denial,Paid
+99213,BlueCross,George Ochoa,265,0,No Denial,Paid
+87070,BlueCross,Valerie Taylor,260,0,No Denial,Paid
+99214,UnitedHealthcare,Travis Harris,0,99,Missing information,Denied
+87070,Humana,Vincent Novak,82,0,No Denial,Paid
+99213,Kaiser Permanente,Michael Henry,110,0,No Denial,Paid
+90471,Kaiser Permanente,Dana Bennett,0,98,Missing information,Denied
+90471,UnitedHealthcare,Jenna Wilson,106,0,No Denial,Paid
+99214,Cigna,Leslie Gardner,156,0,No Denial,Paid
+93000,BlueCross,Krista Benton,272,0,No Denial,Paid
+93000,Kaiser Permanente,Michael Gonzales,116,0,No Denial,Paid
+99214,Humana,Michael Fuentes,236,0,No Denial,Paid
+93000,BlueCross,Jennifer Porter,134,0,No Denial,Paid
+93000,BlueCross,Dana Hopkins,193,0,No Denial,Paid
+87070,UnitedHealthcare,Rachel Jones,115,0,No Denial,Paid
+99214,Humana,Karen Morales DDS,169,0,No Denial,Paid
+90471,Cigna,Melissa Stephens,143,0,No Denial,Paid
+71020,Kaiser Permanente,Heather Woodard,0,221,Non-covered service,Denied
+71020,Aetna,Mary Kelly,210,0,No Denial,Paid
+87070,Kaiser Permanente,Amanda Terrell,245,0,No Denial,Paid
+99213,Aetna,Jennifer Goodwin,108,0,No Denial,Paid
+87070,BlueCross,Jessica Smith,98,0,No Denial,Paid
+99213,Cigna,Jorge Stone,113,0,No Denial,Paid
+90471,Humana,Laura Griffin,219,0,No Denial,Paid
+93000,BlueCross,Raymond Chapman,277,0,No Denial,Paid
+99214,UnitedHealthcare,Haley Johnson,83,0,No Denial,Paid
+71020,Aetna,Jason Nixon,0,95,Charge exceeds fee schedule,Denied
+71020,Kaiser Permanente,Todd Thomas,276,0,No Denial,Paid
+90471,BlueCross,Jesse Clark,101,0,No Denial,Paid
+93000,Cigna,Mr. Jeffrey Horton,0,100,Non-covered service,Denied
+87070,Aetna,Eric Patrick,180,0,No Denial,Paid
+99214,Cigna,Samuel Wong,266,0,No Denial,Paid
+87070,UnitedHealthcare,Carly Riggs,0,191,Missing information,Denied
+36415,Humana,Christopher Moore,159,0,No Denial,Paid
+93000,UnitedHealthcare,Tina Hall,0,115,Non-covered service,Denied
+99213,Aetna,Cody Davidson,168,0,No Denial,Paid
+71020,Aetna,Allen Mendez,271,0,No Denial,Paid
+71020,Kaiser Permanente,Kevin Price,277,0,No Denial,Paid
+99213,Cigna,Christine Goodwin,149,0,No Denial,Paid
+99214,Cigna,Amy Garcia,227,0,No Denial,Paid
+99214,BlueCross,Chelsea Nguyen,172,0,No Denial,Paid
+99213,BlueCross,Dennis Huffman,122,0,No Denial,Paid
+20550,Aetna,Margaret Harper,0,106,Non-covered service,Denied
+99214,Aetna,Laurie Bailey,80,0,No Denial,Paid
+99213,UnitedHealthcare,Lisa Cervantes,0,200,Charge exceeds fee schedule,Denied
+90471,Aetna,Cesar Wilson,186,0,No Denial,Paid
+20550,Cigna,Clayton Steele,226,0,No Denial,Paid
+20550,UnitedHealthcare,Jennifer Taylor,93,0,No Denial,Paid
+93000,Aetna,Cody Reid,91,0,No Denial,Paid
+90471,UnitedHealthcare,Maria Cooke,152,0,No Denial,Paid
+71020,Cigna,Katherine Taylor,0,196,Missing information,Denied
+87070,BlueCross,Adam Taylor,206,0,No Denial,Paid
+87070,Kaiser Permanente,Tracey Wagner,274,0,No Denial,Paid
+87070,Aetna,Michael Perry PhD,0,184,Missing information,Denied
+87070,Humana,Bradley Johnson DDS,294,0,No Denial,Paid
+99213,Cigna,Donald Medina,0,248,Charge exceeds fee schedule,Denied
+71020,UnitedHealthcare,Jim Newton,0,140,Charge exceeds fee schedule,Denied
+36415,UnitedHealthcare,Krista Wilson,116,0,No Denial,Paid
+71020,UnitedHealthcare,Reginald Morrow,0,139,Non-covered service,Denied
+90471,Kaiser Permanente,Rodney Williams,197,0,No Denial,Paid
+99214,Humana,Kimberly Fritz,0,114,Non-covered service,Denied
+90471,UnitedHealthcare,Ronald Potter,95,0,No Denial,Paid
+90471,Kaiser Permanente,Zachary Cole,140,0,No Denial,Paid
+71020,Cigna,Robert Gonzales,285,0,No Denial,Paid
+90471,Kaiser Permanente,Patricia Young PhD,163,0,No Denial,Paid
+20550,BlueCross,Heather Page,0,99,Missing information,Denied
+93000,Humana,Carol Taylor,0,107,Missing information,Denied
+36415,BlueCross,Daniel Brown,110,0,No Denial,Paid
+20550,Aetna,Douglas Ryan,198,0,No Denial,Paid
+71020,Kaiser Permanente,Scott Duke,90,0,No Denial,Paid
+87070,Cigna,Anna Estes,0,262,Missing information,Denied
+20550,BlueCross,Tamara Riddle,253,0,No Denial,Paid
+71020,Cigna,Beth Cline,124,0,No Denial,Paid
+99213,BlueCross,Michael Poole,222,0,No Denial,Paid
+87070,UnitedHealthcare,Megan Burns,285,0,No Denial,Paid
+93000,Aetna,Mark Beard,175,0,No Denial,Paid
+99214,Humana,Jose Ramirez,288,0,No Denial,Paid
+99214,UnitedHealthcare,Jackie Clements,130,0,No Denial,Paid
+99214,UnitedHealthcare,Monica Ellis,92,0,No Denial,Paid
+93000,Humana,Heather Brown,265,0,No Denial,Paid
+90471,BlueCross,Claudia Jordan,0,254,Charge exceeds fee schedule,Denied
+93000,Cigna,Derrick Clayton,0,127,Charge exceeds fee schedule,Denied
+71020,BlueCross,Kenneth Knight,88,0,No Denial,Paid
+87070,Kaiser Permanente,Mr. Michael Williams,0,185,Non-covered service,Denied
+36415,UnitedHealthcare,Richard Stevens,0,178,Missing information,Denied
+90471,Aetna,Scott Alexander,284,0,No Denial,Paid
+87070,Kaiser Permanente,Tyler Harris,219,0,No Denial,Paid
+99213,BlueCross,Bonnie Santos,171,0,No Denial,Paid
+36415,Humana,Timothy Hill,168,0,No Denial,Paid
+20550,BlueCross,Danielle Watson,0,86,Charge exceeds fee schedule,Denied
+87070,UnitedHealthcare,Carol Sanders,279,0,No Denial,Paid
+71020,UnitedHealthcare,Michael Young,200,0,No Denial,Paid
+20550,Humana,Michele Smith,120,0,No Denial,Paid
+99214,Aetna,Casey Perez,148,0,No Denial,Paid
+99213,Aetna,Alexandra Dominguez,284,0,No Denial,Paid
+90471,Cigna,Virginia Henderson,296,0,No Denial,Paid
+93000,Aetna,Benjamin Reyes,0,161,Non-covered service,Denied
+20550,Humana,Ashley Edwards,0,259,Charge exceeds fee schedule,Denied
+93000,Humana,Breanna Ayala,294,0,No Denial,Paid
+36415,Humana,Brandi Haney,205,0,No Denial,Paid
+99213,UnitedHealthcare,Joseph Smith,0,234,Missing information,Denied
+99213,Humana,Jessica Bowen,164,0,No Denial,Paid
+87070,Aetna,Brittany Jenkins,125,0,No Denial,Paid
+20550,UnitedHealthcare,Shannon Miller,0,230,Non-covered service,Denied
+93000,UnitedHealthcare,Paul Lawrence,300,0,No Denial,Paid
+20550,UnitedHealthcare,Victor Edwards,249,0,No Denial,Paid
+90471,Humana,Donald Miller,0,157,Charge exceeds fee schedule,Denied
+93000,Aetna,Lindsay Lawson,191,0,No Denial,Paid
+36415,Kaiser Permanente,Melissa Abbott,261,0,No Denial,Paid
+20550,Aetna,Elizabeth Holmes,288,0,No Denial,Paid
+93000,BlueCross,Nicole Phillips,256,0,No Denial,Paid
+71020,Aetna,Steven Blevins,0,80,Non-covered service,Denied
+90471,Humana,Brian Porter MD,0,234,Charge exceeds fee schedule,Denied
+87070,Kaiser Permanente,Vanessa Hatfield,207,0,No Denial,Paid
+93000,Cigna,Bonnie Valencia,140,0,No Denial,Paid
+20550,Cigna,Holly Vega,0,102,Non-covered service,Denied
+20550,BlueCross,Tiffany Townsend,0,133,Missing information,Denied
+99214,Cigna,Austin Baker,0,107,Non-covered service,Denied
+99213,UnitedHealthcare,Antonio Mccormick,267,0,No Denial,Paid
+90471,Aetna,Lori Mason,206,0,No Denial,Paid
+90471,Cigna,Michael Miller,105,0,No Denial,Paid
+36415,Humana,Lisa Ramirez,255,0,No Denial,Paid
+87070,Aetna,Jorge Harris,284,0,No Denial,Paid
+99213,Cigna,Kimberly Myers,0,146,Missing information,Denied
+99214,Cigna,Sandra Becker,0,176,Missing information,Denied
+99214,Humana,Michael Blair,103,0,No Denial,Paid
+20550,Humana,Amy Miller,203,0,No Denial,Paid
+99213,BlueCross,Jesse Lynch,122,0,No Denial,Paid
+90471,Aetna,Patrick Yang,0,164,Missing information,Denied
+87070,BlueCross,Michael Miles,264,0,No Denial,Paid
+71020,Kaiser Permanente,Troy Mills,0,140,Missing information,Denied
+99213,BlueCross,Michelle Jackson,295,0,No Denial,Paid
+36415,Aetna,Richard Adams,0,80,Charge exceeds fee schedule,Denied
+99214,Cigna,Patricia Johnson,240,0,No Denial,Paid
+36415,Aetna,Denise Brown,0,132,Missing information,Denied
+71020,UnitedHealthcare,Laura Jones,109,0,No Denial,Paid
+71020,BlueCross,Ian Porter,249,0,No Denial,Paid
+71020,UnitedHealthcare,Holly Scott,179,0,No Denial,Paid
+93000,Cigna,Kenneth Sharp,174,0,No Denial,Paid
+93000,BlueCross,Jordan Williams,0,192,Charge exceeds fee schedule,Denied
+71020,Aetna,Dana Ruiz,224,0,No Denial,Paid
+99213,Aetna,Chris Velazquez,250,0,No Denial,Paid
+99214,UnitedHealthcare,Kristen Sloan,286,0,No Denial,Paid
+90471,Humana,Jennifer Morris,0,95,Charge exceeds fee schedule,Denied
+90471,Humana,Nathan Nelson,201,0,No Denial,Paid
+87070,BlueCross,Jake Shaw,0,181,Non-covered service,Denied
+99213,Humana,Cassie Brock,212,0,No Denial,Paid
+93000,UnitedHealthcare,Dr. Andrea Marshall,194,0,No Denial,Paid
+93000,Aetna,Ryan Murphy,286,0,No Denial,Paid
+87070,Aetna,Aimee Gonzalez,0,100,Non-covered service,Denied
+90471,Aetna,Elizabeth Dean,240,0,No Denial,Paid
+93000,Humana,Kevin Snyder,0,266,Missing information,Denied
+99214,BlueCross,Christie Mccullough,221,0,No Denial,Paid
+20550,Cigna,Danielle Smith,83,0,No Denial,Paid
+90471,UnitedHealthcare,David Reed,117,0,No Denial,Paid
+99214,UnitedHealthcare,Sherry Tapia,105,0,No Denial,Paid
+71020,Humana,Matthew Sweeney,185,0,No Denial,Paid
+71020,BlueCross,Ashley Moreno,226,0,No Denial,Paid
+36415,UnitedHealthcare,Johnathan Brown,0,183,Missing information,Denied
+90471,UnitedHealthcare,Michelle Davis DVM,164,0,No Denial,Paid
+87070,UnitedHealthcare,Kelly Haynes,148,0,No Denial,Paid
+20550,UnitedHealthcare,William Miller,283,0,No Denial,Paid
+71020,Cigna,Casey Wilkins,0,205,Non-covered service,Denied
+99214,Aetna,Keith Graham,0,270,Charge exceeds fee schedule,Denied
+20550,Cigna,Cynthia Green,234,0,No Denial,Paid
+99214,Aetna,Robert Haynes,290,0,No Denial,Paid
+90471,Kaiser Permanente,Emily Nelson,212,0,No Denial,Paid
+20550,UnitedHealthcare,Dale Chan,120,0,No Denial,Paid
+99214,Cigna,Brittney Martin,183,0,No Denial,Paid
+93000,Humana,Jason Herrera,87,0,No Denial,Paid
+93000,Aetna,Christine Parker,131,0,No Denial,Paid
+99213,Aetna,Bryan Moore,0,92,Charge exceeds fee schedule,Denied
+87070,Cigna,Samantha Terry,198,0,No Denial,Paid
+90471,Kaiser Permanente,Russell Murphy,254,0,No Denial,Paid
+99213,Aetna,David Kelly,232,0,No Denial,Paid
+36415,Aetna,Megan Green,201,0,No Denial,Paid
+20550,Cigna,Amanda Sullivan MD,0,146,Non-covered service,Denied
+99214,Cigna,Danielle Murray,0,92,Missing information,Denied
+87070,Aetna,Brenda Smith,253,0,No Denial,Paid
+87070,Cigna,Vickie Anderson,211,0,No Denial,Paid
+99213,Kaiser Permanente,Jacqueline Mccoy,0,113,Non-covered service,Denied
+93000,Humana,Lauren Green,137,0,No Denial,Paid
+71020,Humana,Alison Brown,158,0,No Denial,Paid
+71020,BlueCross,Jill Anderson,298,0,No Denial,Paid
+20550,BlueCross,Sandra Rivera,0,199,Charge exceeds fee schedule,Denied
+90471,Humana,Joel Jackson,0,210,Non-covered service,Denied
+20550,Humana,Samantha Foster,235,0,No Denial,Paid
+71020,Cigna,Michael Thompson,203,0,No Denial,Paid
+99214,Cigna,Cody Ramirez,243,0,No Denial,Paid
+20550,Cigna,Amanda Harvey,0,262,Non-covered service,Denied
+71020,Aetna,Edward Jenkins,0,275,Missing information,Denied
+99213,Humana,Amy Ramirez,161,0,No Denial,Paid
+93000,Kaiser Permanente,Curtis Wilkerson,0,207,Charge exceeds fee schedule,Denied
+71020,BlueCross,Lydia Pham,268,0,No Denial,Paid
+99213,Humana,Virginia Casey,226,0,No Denial,Paid
+87070,Cigna,Joshua Washington,136,0,No Denial,Paid
+36415,Kaiser Permanente,Kathryn Price,156,0,No Denial,Paid
+93000,Kaiser Permanente,Francis Robinson,126,0,No Denial,Paid
+71020,UnitedHealthcare,Paula Brown,269,0,No Denial,Paid
+71020,Kaiser Permanente,Kendra Wang DVM,275,0,No Denial,Paid
+93000,Kaiser Permanente,Ariel Sandoval,247,0,No Denial,Paid
+99214,Aetna,Robert Stark,270,0,No Denial,Paid
+71020,BlueCross,Zachary Robinson,164,0,No Denial,Paid
+20550,Cigna,Rebecca Kelly,198,0,No Denial,Paid
+99214,BlueCross,Sarah Thompson,0,242,Non-covered service,Denied
+99214,BlueCross,Renee Wolfe,208,0,No Denial,Paid
+99214,Kaiser Permanente,Alyssa Haynes,156,0,No Denial,Paid
+90471,UnitedHealthcare,Kristy Hart,118,0,No Denial,Paid
+93000,Aetna,William Keith,225,0,No Denial,Paid
+36415,Aetna,Eric Henry Jr.,263,0,No Denial,Paid
+93000,UnitedHealthcare,Daniel Fox,241,0,No Denial,Paid
+93000,Cigna,Thomas Harris,81,0,No Denial,Paid
+93000,BlueCross,Erica Johnson,279,0,No Denial,Paid
+99214,Aetna,Sylvia Schroeder,242,0,No Denial,Paid
+90471,BlueCross,Shannon Yu,202,0,No Denial,Paid
+90471,UnitedHealthcare,Tom Foster,0,131,Non-covered service,Denied
+20550,UnitedHealthcare,Eric Taylor,273,0,No Denial,Paid
+87070,UnitedHealthcare,Travis Conner,240,0,No Denial,Paid
+87070,Aetna,Marie Thompson,168,0,No Denial,Paid
+71020,Aetna,Melissa Mcfarland,0,208,Non-covered service,Denied
+71020,Aetna,Courtney Chapman,0,91,Charge exceeds fee schedule,Denied
+71020,BlueCross,Eric Barker,232,0,No Denial,Paid
+20550,BlueCross,Nicholas Rush,114,0,No Denial,Paid
+20550,BlueCross,Jenna Gamble,128,0,No Denial,Paid
+93000,BlueCross,Amanda Guzman,0,137,Non-covered service,Denied
+93000,Aetna,Tracy Walker,230,0,No Denial,Paid
+93000,UnitedHealthcare,Taylor Taylor,246,0,No Denial,Paid
+99213,BlueCross,Cynthia Haas,145,0,No Denial,Paid
+99213,Humana,Stephen Davis,249,0,No Denial,Paid
+99214,Kaiser Permanente,Margaret Tanner,92,0,No Denial,Paid
+99214,BlueCross,Derek Wright,111,0,No Denial,Paid
+71020,BlueCross,David Rodriguez,132,0,No Denial,Paid
+99213,Cigna,James Oconnor,105,0,No Denial,Paid
+71020,Humana,Stacey Snyder,115,0,No Denial,Paid
+90471,UnitedHealthcare,Joshua Garcia,238,0,No Denial,Paid
+99214,Cigna,Sean Curtis,0,107,Charge exceeds fee schedule,Denied
+87070,Humana,Carla Jones,0,147,Non-covered service,Denied
+87070,Cigna,Elizabeth Flores,155,0,No Denial,Paid
+93000,UnitedHealthcare,Angela Jackson,133,0,No Denial,Paid
+36415,Cigna,Nicholas Payne,0,83,Non-covered service,Denied
+99214,UnitedHealthcare,Anna Wheeler,251,0,No Denial,Paid
+36415,Aetna,Karen Johnson,279,0,No Denial,Paid
+99214,Kaiser Permanente,Carmen Preston,145,0,No Denial,Paid
+87070,BlueCross,Brian Harris,155,0,No Denial,Paid
+99213,Cigna,Deborah Campbell,253,0,No Denial,Paid
+20550,BlueCross,Anthony Armstrong,104,0,No Denial,Paid
+99213,UnitedHealthcare,Brittany Ward,249,0,No Denial,Paid
+93000,Cigna,Edward Stanley,192,0,No Denial,Paid
+93000,UnitedHealthcare,Edgar Miller,196,0,No Denial,Paid
+71020,BlueCross,Elizabeth Sanders,202,0,No Denial,Paid
